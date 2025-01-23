@@ -21,7 +21,7 @@ B.E CSE Student | II Year
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/ASUS-Vivobook_15-ED1C24?style=for-the-badge&logo=asus&logoColor=white" />
 
-![Muthunilavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthunilavan-D&theme=dark&show_icons=true&&hide=issues,contribs&cache_seconds=1800)
+![Muthunilavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthunilavan-D&theme=dark&show_icons=true&hide=issues,contribs&cache_seconds=1800)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Muthunilavan?ext=contest&theme=dark)](https://leetcode.com/Muthunilavan/)
 
