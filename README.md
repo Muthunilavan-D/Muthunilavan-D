@@ -23,4 +23,4 @@ B.E CSE Student | II Year
 
 ![Muthunilavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthunilavan-D&theme=dark&show_icons=true&hide=issues,contribs&cache_seconds=300)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Muthunilavan-D?ext=contest&theme=dark)](https://leetcode.com/Muthunilavan-D/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Muthunilavan?ext=contest&theme=dark)](https://leetcode.com/Muthunilavan/)
