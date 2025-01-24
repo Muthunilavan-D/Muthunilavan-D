@@ -3,7 +3,7 @@
 B.E CSE Student | II Year
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif">
 
-- 🔭 Here's my [portfolio](www.linkedin.com/in/d-mn-92a1b7341)  
+- 🔭 Here's my [portfolio](https://expt-web-app.web.app)  
 - 🌱 I’m currently learning DSA and Flutter app development  
 - 💬 Ask me about Tech  
 - 📫 How to reach me:
